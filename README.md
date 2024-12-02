@@ -36,6 +36,9 @@ This project demonstrates a full-stack application that includes a **frontend** 
 ## **Running the Project**
 
 ### **1. Clone the Repository**
+```bash
+https://github.com/shivam2027/RBAC_assign.git
+```
 download the `.zip` file provided, extract it, and navigate to the extracted directory.
 
 ### **2. Start the Backend**
